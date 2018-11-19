@@ -1,0 +1,280 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Будущие Украины</title>
+  <link href="css2/style2.css" type="text/css" rel="stylesheet">
+     <link href="css2/media.css" type="text/css" rel="stylesheet">
+  <style type="text/css">
+</style>
+
+
+
+</head>
+<body>
+
+
+
+
+  
+
+
+  <div class="section">
+    	
+    		<div class="item">  <a href="#"> О Нас   </a>
+    		</div>
+    
+
+    	<div class="item">  <a href="#">Эмиграция Украины в 2018   </a>
+    	</div>
+
+    	<div class="item">  <a href="#"> Сотрудничество </a>
+    	</div>
+    	   
+
+    </div>
+  
+
+
+  
+
+
+
+
+<div class="header">
+    
+ </div>
+
+
+ <div class="wraper">
+  	
+
+  <div class="info">
+  	<h1>
+  		Численность населения Украины по состоянию на 1 января 2018 года по данным Госстата Украины составила 42 216 766 постоянных жителей и 42 386 403 человек наличного населения
+</h1>
+  </div>
+
+
+
+<div class="know">
+<p>Состояние Украины на 2016 год</p>
+	</div>
+
+
+
+   <div class="info2">
+   	<h1>
+   	По состоянию на 2016 год Украина занимает:
+<ul>
+ <li>186-е место из 226 стран и территорий мира по уровню рождаемости (10,5 родившихся на 1000 человек);</li> <br>
+
+<li>4-е место в мире и 3-е место в Европе по уровню смертности (14,4 умерших на 1000 человек) после Лесото, Болгарии и Литвы;</li> <br>
+
+<li>5-е место в мире по уровню естественной убыли населения (3,9 убывших на 1000 человек) после Болгарии, Сербии, Латвии и Литвы;</li> <br>
+
+<li>13-е место из 235 стран и территорий мира и 8-е место в Европе по уровню общей убыли населения (-0,39 %, или 3,9 убывших на 1000 человек).</li> <br>
+
+</ul>
+</h1>
+  </div>
+  
+
+  <div class="info3"> 
+<h2> Дополнительная  информация про рождаемость население в данный момент:</h2>
+  </div>
+
+<div class="dop">
+	<ul>
+<li>Винницкая область 1,502.</li>
+<li>Волынская область 1,742.</li>
+<li>Днепропетровская область 1,480.</li>
+<li>Житомирская область 1,598.</li>
+<li>Закарпатская область 1,817.</li>
+<li>Запорожская область 1,387.</li>
+<li>Ивано-Франковская область 1,535.</li>
+<li>Киевская область 1,645.</li>
+<li>Кировоградская область 1,492.</li>
+<li>Львовская область 1,514.</li>
+<li>Николаевская область 1,445.</li>
+<li>Одесская область 1,615.</li>
+<li>Полтавская область 1,391.</li>
+<li>Ровенская область 1,891.(мах)</li>
+<li>Сумская область 1,303.</li>
+<li>Тернопольская область 1,399.</li>
+<li>Харьковская область 1,292. (мin)</li>
+<li>Херсонская область 1,552.</li>
+<li>Хмельницкая область 1,587.</li>
+<li>Черкасская область 1,383.</li>
+<li>Черновицкая область 1,559.</li>
+<li>Черниговская область 1,341.</li>
+<li>Киев 1,502.
+	</ul>
+</div>
+
+<div class="why">
+	<h2>Причины уезда украинцев из Украины:</h2>
+	<p>Трудова́я мигра́ция с Украи́ны — трудовая миграция граждан Украины в страны ближнего и дальнего зарубежья.
+
+На Украине появился термин для обозначения подобных мигрантов — «заробiтча́ни» (в русскоязычных СМИ — «заробитча́не», букв. «заработчики»), под которыми понимают многочисленных русскоязычных и украиноязычных экономических мигрантов (гастарбайтеров) с Украины, работающих в Российской Федерации, на Западе и в столице Украины — Киеве в 1990-х 2000-х годах. Используется в русскоязычных и украиноязычных СМИ (в основном на Украине). Общее число трудовых мигрантов с Украины оценивается в 4,5 миллиона человек. Значителен их вклад в экономику Украины. В частности, только украинские трудовые мигранты, работающие в странах ЕС, за 2007 год переслали на Украину 27 млрд евро, что составило 8 % от ВВП Украины</p>
+</div>
+
+
+<div class="line">
+	
+</div>
+
+  <div class="teneger">
+  <h2>Молодеж и старшее поколение </h2>
+  <p>Из тех, кто намерен покинуть Украину, 55% – молодежь в возрасте от 18 до 29 лет; 44% – от 30 до 39 лет; 33% – 40-50-летние,
+– говорится в исследовании.
+<a href="https://24tv.ua/ru/skolko_molodyh_ukraincev_hotjat_uehat_iz_strany_vpechatljajushhaja_statistika_n919056">https://24tv.ua/ru/ukraina_tag1119</a></p>
+  </div>
+
+
+<div class="visa"><h2>Visa</h2></div>
+
+<div class="infovisa">
+	<h2>Визовые требования для граждан Украины </h2>
+	<p>По состоянию на 25 апреля 2018 года, украинские граждане могут безвизово или получая визу по прибытию, посещать 127 стран членов ООН. Таким образом, по этому показателю украинский паспорт занимает 33 место в глобальном и 63 в индивидуальном рейтинге паспортов мира[1].
+Кроме этого, министр иностранных дел Украины Павел Климкин заявил, что в ближайшее время будут отменены визы примерно еще в 25 стран, таких как Южная Корея, Багамские острова, Уругвай и т. п.</p>
+
+
+</div>
+
+
+<div id="clk">
+<h4>Уровень жизни на 2013 год</h4> <br>
+</div>
+
+
+<div id="doplife">  
+<p>
+	
+1	Flag of Switzerland.svg Швейцария	8,22<br>
+2	Flag of Germany.svg Германия	8,18<br>
+3	Flag of Norway.svg Норвегия	8,09<br>
+4	Flag of Sweden.svg Швеция	8,03<br>
+5	Flag of Denmark.svg Дания	8,02<br>
+6	Flag of the United States.svg США	8,01<br>
+7	Flag of Singapore.svg Сингапур	8.00<br>
+8	Flag of New Zealand.svg Новая Зеландия	7,95<br>
+9	Flag of the Netherlands.svg Нидерланды	7,94<br>
+10	Flag of Canada.svg Канада	7,81<br>
+11	Flag of Hong Kong.svg Гонконг	7,80<br>
+12	Flag of Finland.svg Финляндия	7,76<br>
+13	Flag of Ireland.svg Ирландия	7,74<br>
+14	Flag of Austria.svg Австрия	7,73<br>
+15	Flag of Australia.svg Австралия	7,67<br>
+16	Flag of Belgium (civil).svg Бельгия	7,51<br>
+17	Flag of Germany.svg Германия	7,38<br>
+18	Flag of the United Arab Emirates.svg ОАЭ	7,33<br>
+19	Flag of South Korea.svg Республика Корея	7,25<br>
+20	Flag of Israel.svg Израиль	7,23<br>
+21	Flag of Italy.svg Италия	7,21<br>
+22	Flag of Kuwait.svg Кувейт	7,18<br>
+23	Flag of Chile.svg Чили	7,10<br>
+23	Flag of Cyprus.svg Кипр	7,10<br>
+25	Flag of Japan.svg Япония	7,08<br>
+26	Flag of France.svg Франция	7,04<br>
+27	Flag of the United Kingdom.svg Великобритания	7,01<br>
+28	Flag of the Czech Republic.svg Чехия	6,96<br>
+28	Flag of Spain.svg Испания	6,96<br>
+30	Flag of Costa Rica (state).svg Коста-Рика	6,92<br>
+30	Flag of Portugal.svg Португалия	6,92<br>
+32	Flag of Slovenia.svg Словения	6,77<br>
+33	Flag of Poland.svg Польша	6,66<br>
+34	Flag of Greece.svg Греция	6,65<br>
+35	Flag of Slovakia.svg Словакия	6,64<br>
+36	Flag of Malaysia.svg Малайзия	6,62<br>
+37	Flag of Brazil.svg Бразилия	6,52<br>
+38	Flag of Saudi Arabia.svg Саудовская Аравия	6,49<br>
+39	Flag of Mexico.svg Мексика	6,41<br>
+40	Flag of Argentina.svg Аргентина	6,39<br>
+40	Flag of Cuba.svg Куба	6,39<br>
+42	Flag of Colombia.svg Колумбия	6,27<br>
+43	Flag of Peru (state).svg Перу	6,24<br>
+44	Flag of Estonia.svg Эстония	6,07<br>
+44	Flag of Venezuela (state).svg Венесуэла	6,07<br>
+46	Flag of Croatia.svg Хорватия	6,06<br>
+46	Flag of Hungary.svg Венгрия	6,06<br>
+48	Flag of Latvia.svg Латвия	6,01<br>
+49	Flag of the People's Republic of China.svg КНР	5,99<br>
+50	Flag of Thailand.svg Таиланд	5,96<br>
+51	Flag of Turkey.svg Турция	5,95<br>
+52	Flag of the Dominican Republic.svg Доминиканская Республика	5,93<br>
+53	Flag of South Africa.svg ЮАР	5,89<br>
+54	Flag of Algeria.svg Алжир	5,86<br>
+54	Flag of Serbia.svg Сербия	5,86<br>
+56	Flag of Romania.svg Румыния	5,85<br>
+57	Flag of Lithuania.svg Литва	5,82<br>
+58	Flag of Iran.svg Иран	5,78<br>
+59	Flag of Tunisia.svg Тунис	5,77<br>
+60	Flag of Egypt.svg Египет	5,76<br>
+61	Flag of Bulgaria.svg Болгария	5,73<br>
+62	Flag of El Salvador.svg Сальвадор	5,72<br>
+63	Flag of the Philippines.svg Филиппины	5,71<br>
+63	Flag of Sri Lanka.svg Шри-Ланка	5,71<br>
+65	Flag of Ecuador.svg Эквадор	5,70<br>
+66	Flag of India.svg Индия	5,67<br>
+66	Flag of Morocco.svg Марокко	5,67<br>
+68	Flag of Vietnam.svg Вьетнам	5,64<br>
+69	Flag of Jordan.svg Иордания	5,63<br>
+70	Flag of Azerbaijan.svg Азербайджан	5,60<br>
+71	Flag of Indonesia.svg Индонезия	5,54<br>
+72	Flag of Russia.svg Россия	5,31<br>
+73	Flag of Syria.svg Сирия	5,29<br>
+74	Flag of Kazakhstan.svg Казахстан	5,20<br>
+75	Flag of Pakistan.svg Пакистан	5,17<br>
+76	Flag of Angola.svg Ангола	5,09<br>
+77	Flag of Bangladesh.svg Бангладеш	5,07<br>
+78	Flag of Ukraine.svg Украина	4,98<br>
+79	Flag of Kenya.svg Кения	4,91<br>
+80	Flag of Nigeria.svg Нигерия	4,74<br> </p>
+</div>
+
+
+
+
+<div class="life"><p>Экономика Украины  — 50-я в мире по размеру ВВП по ППС — 353 млрд долларов (оценка МВФ за 2016 год). Основу украинской экономики составляют многоотраслевая промышленность, сельское хозяйство и сфера услуг.</p></div>
+
+
+<div class="crys"> <h2>Crisis</h2>
+</div>
+
+
+<div class="crisys">
+	<h2>В 2019 году Украину ждет жесточайший кризис. Пик популизма встретится с пиком выплат по долгам</h2>
+</div>
+
+
+
+
+<div class="top">
+	    <h2> Популярные вопросы задаваимые <font color="blue">G</font><font color="red">o</font><font color="yellow">o</font><font color="blue">g</font><font color="green">l</font><font color="red">e</font></h2>
+	<ul> 
+		<li><p>Когда Украниа выйдет из кризиса?</p></li>
+		<li><p>Когда курс доллара упадет?</p></li>
+		<li><p>Найти работу за границей</p></li>
+
+    </ul>
+
+
+
+</div>
+
+
+
+
+   </div> 
+
+<div class="bottom">
+	
+</div>
+
+
+	 <script src="javascript2/jquery-3.3.1.js"></script>
+	 <script src="javascript2/jsweb.js"></script>
+	 
+</body>
+</html>
