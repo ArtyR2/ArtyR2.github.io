@@ -47,7 +47,8 @@ height: 50px;
 .item{
 	padding: 10px 15px;
 	transition: 0;
-	text-align: 30px;
+	
+	font-size:15px;
 }
 
 
