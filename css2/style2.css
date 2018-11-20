@@ -340,7 +340,8 @@ background-image: url(../images2/qustions.jpg);
 .bottom{
 	width: 100%;
 	height: 200px;
-	background-color: blue;
+	background-color:#00002F;
+	opacity:0.85;
 	
 }
 
